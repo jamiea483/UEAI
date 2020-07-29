@@ -1,0 +1,720 @@
+﻿Log file open, 11/16/19 08:46:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PerceptiveAI
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184050
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4700HQ CPU @ 2.40GHz, GPU: NVIDIA GeForce GTX 765M
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE4/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Engine.ini]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Engine.ini]
+[2019.11.16-13.46.17:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Engine.ini]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.16-13.46.17:061][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Engine.ini]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.16-13.46.17:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Engine.ini]
+[2019.11.16-13.46.17:062][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Engine.ini]
+[2019.11.16-13.46.17:066][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.16-13.46.17:066][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.16-13.46.17:067][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.16-13.46.17:067][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.16-13.46.17:067][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.16-13.46.17:099][  0]LogHAL: Display: Platform has ~ 16 GB [17093414912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.16-13.46.17:099][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.16-13.46.17:099][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:099][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.16-13.46.17:099][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2019.11.16-13.46.17:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.16-13.46.17:101][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2019.11.16-13.46.17:101][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2019.11.16-13.46.17:101][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Scalability.ini]
+[2019.11.16-13.46.17:101][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2019.11.16-13.46.17:101][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2019.11.16-13.46.17:101][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.16-13.46.17:107][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.16-13.46.17:108][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.16-13.46.17:108][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Config/Windows/Engine.ini]
+[2019.11.16-13.46.17:108][  0]LogInit: Computer: DESKTOP-CJ0TBVV
+[2019.11.16-13.46.17:108][  0]LogInit: User: jamie
+[2019.11.16-13.46.17:108][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.16-13.46.17:108][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.16-13.46.17:108][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.16-13.46.17:108][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.16-13.46.17:108][  0]LogMemory: Process Physical Memory: 101.71 MB used, 101.71 MB peak
+[2019.11.16-13.46.17:108][  0]LogMemory: Process Virtual Memory: 99.07 MB used, 99.07 MB peak
+[2019.11.16-13.46.17:108][  0]LogMemory: Physical Memory: 6420.01 MB used,  9881.54 MB free, 16301.55 MB total
+[2019.11.16-13.46.17:108][  0]LogMemory: Virtual Memory: 4666.74 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.16-13.46.17:119][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.16-13.46.17:502][  0]LogInit: Using OS detected language (en-US).
+[2019.11.16-13.46.17:502][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.16-13.46.17:515][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.16-13.46.18:076][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.16-13.46.18:238][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.16-13.46.18:238][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.16-13.46.19:184][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.16-13.46.19:184][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.16-13.46.19:261][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 765M' (Feature Level 11_0)
+[2019.11.16-13.46.19:261][  0]LogD3D11RHI:       2007/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.16-13.46.19:264][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.16-13.46.19:264][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.16-13.46.19:264][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.16-13.46.19:273][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.16-13.46.19:273][  0]LogD3D11RHI:     GPU DeviceId: 0x11e2 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.16-13.46.19:273][  0]LogWindows: EnumDisplayDevices:
+[2019.11.16-13.46.19:273][  0]LogWindows:    0. 'NVIDIA GeForce GTX 765M' (P:1 D:1)
+[2019.11.16-13.46.19:273][  0]LogWindows:    1. 'NVIDIA GeForce GTX 765M' (P:0 D:1)
+[2019.11.16-13.46.19:274][  0]LogWindows:    2. 'NVIDIA GeForce GTX 765M' (P:0 D:0)
+[2019.11.16-13.46.19:274][  0]LogWindows:    3. 'NVIDIA GeForce GTX 765M' (P:0 D:0)
+[2019.11.16-13.46.19:275][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.16-13.46.19:275][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 765M
+[2019.11.16-13.46.19:275][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.11.16-13.46.19:275][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.11.16-13.46.19:275][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2019.11.16-13.46.19:324][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.16-13.46.19:344][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.16-13.46.21:331][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.16-13.46.21:364][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.16-13.46.21:386][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.16-13.46.21:413][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.16-13.46.21:441][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.16-13.46.21:468][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.16-13.46.21:484][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.16-13.46.21:500][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.16-13.46.21:511][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.16-13.46.21:590][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.16-13.46.21:613][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.16-13.46.21:765][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.16-13.46.21:765][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.16-13.46.21:799][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.16-13.46.21:799][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.16-13.46.21:827][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.16-13.46.21:846][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.16-13.46.21:867][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.16-13.46.21:891][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.16-13.46.21:948][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.16-13.46.21:948][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.16-13.46.21:948][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.16-13.46.22:053][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.16-13.46.22:700][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Intermediate/Shaders/WorkingDirectory/31632/).
+[2019.11.16-13.46.22:700][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jamie/AppData/Local/Temp/UnrealShaderWorkingDir/C6C379624C1ABE3ED94E4783364A24FA/'.
+[2019.11.16-13.46.22:703][  0]LogXGEController: Cleaning working directory: C:/Users/jamie/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.16-13.46.22:703][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.16-13.46.22:703][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.16-13.46.22:703][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.16-13.46.24:314][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.16-13.46.25:491][  0]LogDerivedDataCache: Loaded boot cache 1.18s 73MB C:/Users/jamie/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.16-13.46.25:492][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jamie/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.16-13.46.25:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.16-13.46.25:492][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.16-13.46.25:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.16-13.46.25:492][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.16-13.46.25:777][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.16-13.46.25:777][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.16-13.46.25:777][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.16-13.46.25:782][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jamie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.16-13.46.25:782][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.16-13.46.25:782][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.16-13.46.25:808][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.16-13.46.25:811][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.16-13.46.25:847][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.16-13.46.26:518][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2019.11.16-13.46.26:975][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.16-13.46.27:948][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.16-13.46.27:948][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.16-13.46.27:948][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.16-13.46.27:948][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.16-13.46.27:948][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.16-13.46.28:014][  0]LogNetVersion: PerceptiveAI 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2299057617)
+[2019.11.16-13.46.29:829][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.110604 seconds
+[2019.11.16-13.46.29:837][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.16-13.46.29:837][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.16-13.46.29:837][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.16-13.46.40:228][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.16-13.46.40:256][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.16-13.46.40:759][  0]SourceControl: Source control is disabled
+[2019.11.16-13.46.40:759][  0]SourceControl: Source control is disabled
+[2019.11.16-13.46.40:819][  0]SourceControl: Source control is disabled
+[2019.11.16-13.46.40:842][  0]SourceControl: Source control is disabled
+[2019.11.16-13.46.42:005][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.16-13.46.42:689][  0]LogOcInput: OculusInput pre-init called
+[2019.11.16-13.46.42:746][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.16-13.46.42:746][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.16-13.46.43:017][  0]LogEngine: Initializing Engine...
+[2019.11.16-13.46.43:019][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.16-13.46.43:020][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.16-13.46.43:697][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.16-13.46.43:735][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.16-13.46.43:784][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.16-13.46.43:807][  0]LogInit: FAudioDevice initialized.
+[2019.11.16-13.46.43:807][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.16-13.46.44:096][  0]LogDerivedDataCache: Saved boot cache 0.29s 73MB C:/Users/jamie/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.16-13.46.44:096][  0]LogInit: Texture streaming: Enabled
+[2019.11.16-13.46.44:208][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.16-13.46.49:671][  0]LogInit: Transaction tracking system initialized
+[2019.11.16-13.46.49:942][  0]BlueprintLog: New page: Editor Load
+[2019.11.16-13.46.51:216][  0]LocalizationService: Localization service is disabled
+[2019.11.16-13.46.54:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/' took 0.01s
+[2019.11.16-13.46.54:321][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.16-13.46.54:322][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.16-13.46.57:842][  0]SourceControl: Source control is disabled
+[2019.11.16-13.46.57:842][  0]Cmd: MAP LOAD FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.16-13.46.57:843][  0]LogEditorServer: Warning: Can't find file 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.16-13.46.57:843][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.16-13.46.57:843][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.281ms to complete.
+[2019.11.16-13.46.57:843][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2019.11.16-13.46.58:036][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-13.46.58:044][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-13.46.58:052][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-13.46.58:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.16-13.46.58:087][  0]LogCollectionManager: Loaded 0 collections in 0.001794 seconds
+[2019.11.16-13.46.58:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Collections/' took 0.00s
+[2019.11.16-13.46.58:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/Developers/jamie/Collections/' took 0.00s
+[2019.11.16-13.46.58:095][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/Collections/' took 0.00s
+[2019.11.16-13.46.58:095][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.16-13.46.58:105][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2863 classes and 680 folders.
+[2019.11.16-13.46.58:115][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.16-13.46.59:039][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.16-13.46.59:283][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2019.11.16-13.46.59:405][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.16-13.46.59:537][  0]LogSlate: Took 0.022937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.16-13.46.59:561][  0]LogSlate: Took 0.022363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.16-13.46.59:844][  0]LogRenderer: Reallocating scene render targets to support 940x460 Format 9 NumSamples 1 (Frame:1).
+[2019.11.16-13.47.00:045][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.16-13.47.00:045][  0]LogLoad: (Engine Initialization) Total time: 51.03 seconds
+[2019.11.16-13.47.00:045][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.16-13.47.00:152][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.11.16-13.47.02:203][ 33]LogAssetRegistry: Asset discovery search completed in 35.6860 seconds
+[2019.11.16-13.47.02:209][ 33]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.11.16-13.47.02:209][ 33]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2019.11.16-13.53.24:053][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-13.53.24:392][238]LogSlate: Took 0.036450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.16-13.53.24:442][238]LogSlate: Took 0.020953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.16-14.31.29:545][757]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.16-14.31.45:382][757]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.11.16-14.31.48:438][105]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1749)].
+[2019.11.16-14.31.48:763][105]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.11.16-14.31.48:764][105]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.029
+[2019.11.16-14.31.48:766][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PerceptiveAI/AI/Guard_BT] ([1] browsable assets)...
+[2019.11.16-14.31.48:766][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/PerceptiveAI/AI/Guard_BT]
+[2019.11.16-14.31.48:766][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/AI/Guard_BT" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/PerceptiveAI/AI/Guard_BT_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.16-14.31.48:777][105]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_BT_Auto14325446E401AA9B3BFB1D1B0D21DA60D.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/PerceptiveAI/AI/Guard_BT_Auto1.uasset'
+[2019.11.16-14.31.48:789][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PerceptiveAI/AI/Guard_BB] ([1] browsable assets)...
+[2019.11.16-14.31.48:790][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/PerceptiveAI/AI/Guard_BB]
+[2019.11.16-14.31.48:790][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/AI/Guard_BB" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/PerceptiveAI/AI/Guard_BB_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.16-14.31.48:799][105]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_BB_Auto13266D2964BCFE2587531D3842CC4A065.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/PerceptiveAI/AI/Guard_BB_Auto1.uasset'
+[2019.11.16-14.31.48:801][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PerceptiveAI/AI/NewBlueprint] ([1] browsable assets)...
+[2019.11.16-14.31.48:801][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/PerceptiveAI/AI/NewBlueprint]
+[2019.11.16-14.31.48:815][105]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/NewBlueprint_Auto1E27499174A4DFDF38D741AAD114F0719.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/PerceptiveAI/AI/NewBlueprint_Auto1.uasset'
+[2019.11.16-14.31.48:817][105]LogFileHelpers: Auto-saving content packages took 0.052
+[2019.11.16-14.32.00:934][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.16-14.32.00:948][426]LogMetaData: Removing '/Game/PerceptiveAI/AI/Guard_AIC.Guard_AIC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PerceptiveAI/AI/NewBlueprint.PackageMetaData'
+[2019.11.16-14.32.00:948][426]LogMetaData: Removing '/Game/PerceptiveAI/AI/Guard_AIC.SKEL_Guard_AIC_C' ref from Metadata '/Game/PerceptiveAI/AI/NewBlueprint.PackageMetaData'
+[2019.11.16-14.32.00:948][426]LogMetaData: Removing '/Game/PerceptiveAI/AI/Guard_AIC.Guard_AIC_C' ref from Metadata '/Game/PerceptiveAI/AI/NewBlueprint.PackageMetaData'
+[2019.11.16-14.32.00:948][426]LogMetaData: Removing '/Game/PerceptiveAI/AI/Guard_AIC.Guard_AIC:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PerceptiveAI/AI/NewBlueprint.PackageMetaData'
+[2019.11.16-14.32.00:948][426]LogMetaData: Removing '/Game/PerceptiveAI/AI/Guard_AIC.Guard_AIC:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PerceptiveAI/AI/NewBlueprint.PackageMetaData'
+[2019.11.16-14.32.01:027][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/AI/Guard_AIC" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_AIC.uasset" SILENT=true
+[2019.11.16-14.32.01:045][426]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_AIC37E6AD224D34AE3C6A0CC8BA399EC07C.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_AIC.uasset'
+[2019.11.16-14.32.01:218][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.16-14.32.01:265][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.16-14.32.01:289][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.16-14.32.09:975][982]LogAIModule: Creating AISystem for world Testbed
+[2019.11.16-14.32.10:049][982]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Testbed.Testbed
+[2019.11.16-14.32.10:078][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.11.16-14.32.15:957][982]LogSlate: Window 'Save Content' being destroyed
+[2019.11.16-14.32.15:976][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/AI/Guard_BB" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_BB.uasset" SILENT=true
+[2019.11.16-14.32.15:989][982]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_BBA34EA32546ACF91C6B6906942621FBD2.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_BB.uasset'
+[2019.11.16-14.32.15:994][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/AI/Guard_BT" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_BT.uasset" SILENT=true
+[2019.11.16-14.32.16:006][982]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_BTC4E16B304DD26D85D6B6CEA25607071C.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_BT.uasset'
+[2019.11.16-14.32.16:013][982]Cmd: MAP LOAD FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/Maps/Testbed.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.16-14.32.16:013][982]LightingResults: New page: Lighting Build
+[2019.11.16-14.32.16:016][982]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.11.16-14.32.16:016][982]LoadErrors: New page: Loading map: Testbed.umap
+[2019.11.16-14.32.16:017][982]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-14.32.16:017][982]MapCheck: New page: Map Check
+[2019.11.16-14.32.16:017][982]LightingResults: New page: Lighting Build
+[2019.11.16-14.32.16:046][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.11.16-14.32.19:009][982]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.16-14.32.19:037][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.16-14.32.19:058][982]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.16-14.32.19:059][982]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2019.11.16-14.32.19:059][982]LogFileHelpers: Loading map 'Testbed' took 3.047
+[2019.11.16-14.32.29:752][298]LogSlate: Took 0.009514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.16-14.32.50:240][190]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.11.16-14.33.21:108][355]LogAssetEditorManager: Opening Asset editor for UserDefinedEnum /Game/PerceptiveAI/AI/ECombatState.ECombatState
+[2019.11.16-14.34.39:276][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/AI/ECombatState" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/ECombatState.uasset" SILENT=true
+[2019.11.16-14.34.39:301][247]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/ECombatState9D5AB66543139653C29AE8B8A7291EF9.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/ECombatState.uasset'
+[2019.11.16-14.34.53:867][558]LogSlate: Window 'ECombatState' being destroyed
+[2019.11.16-14.34.53:881][558]LogSlate: Window 'ECombatState' being destroyed
+[2019.11.16-14.36.03:609][ 33]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/PerceptiveAI/AI/Guard_BB.Guard_BB
+[2019.11.16-14.37.40:422][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/AI/Guard_BB" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_BB.uasset" SILENT=true
+[2019.11.16-14.37.40:589][593]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_BB9CE76F014B397C386E12F19F2824A93C.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/AI/Guard_BB.uasset'
+[2019.11.16-14.37.48:873][337]LogSlate: Window 'Guard_BB' being destroyed
+[2019.11.16-14.37.48:888][337]LogSlate: Window 'Guard_BB' being destroyed
+[2019.11.16-14.37.51:209][549]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/PerceptiveAI/AI/Guard_BT.Guard_BT
+[2019.11.16-14.38.10:260][239]LogSlate: Window 'Guard_BT' being destroyed
+[2019.11.16-14.38.10:279][239]LogSlate: Window 'Guard_BT' being destroyed
+[2019.11.16-14.38.15:597][773]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PerceptiveAI/AI/Guard_AIC.Guard_AIC
+[2019.11.16-14.38.16:061][773]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.16-14.38.17:575][773]LogRenderer: Reallocating scene render targets to support 948x568 Format 9 NumSamples 1 (Frame:1).
+[2019.11.16-14.38.39:520][500]LogSlate: Took 0.027893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.16-14.39.15:466][264]BlueprintLog: New page: Compile Guard_AIC
+[2019.11.16-14.39.15:702][264]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2019.11.16-14.39.28:262][227]LogSlate: Window 'Guard_AIC' being destroyed
+[2019.11.16-14.39.28:277][227]LogSlate: Window 'Guard_AIC' being destroyed
+[2019.11.16-14.39.28:291][227]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-14.40.23:607][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/ECombatState.ECombatState' ref from Metadata '/Game/PerceptiveAI/AI/ECombatState.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.Guard_AIC_C' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.SKEL_Guard_AIC_C' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.Guard_AIC:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.Guard_AIC:EventGraph.K2Node_Event_0' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.Guard_AIC:EventGraph.K2Node_Event_1' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.SKEL_Guard_AIC_C:ReceiveBeginPlay' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.SKEL_Guard_AIC_C:ReceiveTick' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.SKEL_Guard_AIC_C:BB' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.SKEL_Guard_AIC_C:UserConstructionScript' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.Guard_AIC_C:BB' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:618][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_AIC.Guard_AIC_C:ReceiveBeginPlay' ref from Metadata '/Game/PerceptiveAI/AI/Guard_AIC.PackageMetaData'
+[2019.11.16-14.40.23:638][428]LogMetaData: Removing '/Game/PerceptiveAI/Blueprints/AI/Guard_BT.Guard_BT:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/PerceptiveAI/AI/Guard_BT.PackageMetaData'
+[2019.11.16-14.40.23:684][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/Blueprints/AI/ECombatState" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/ECombatState.uasset" SILENT=true
+[2019.11.16-14.40.23:697][428]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/ECombatState80DD088A4B514DDB5B998CAF074783FD.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/ECombatState.uasset'
+[2019.11.16-14.40.23:707][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/Blueprints/AI/Guard_AIC" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_AIC.uasset" SILENT=true
+[2019.11.16-14.40.23:752][428]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_AIC4FC1A70B485010870DD48ABE690A18D1.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_AIC.uasset'
+[2019.11.16-14.40.23:761][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/Blueprints/AI/Guard_BB" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_BB.uasset" SILENT=true
+[2019.11.16-14.40.23:772][428]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_BB60162E3E4FA814B763AA91886F278441.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_BB.uasset'
+[2019.11.16-14.40.23:781][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/Blueprints/AI/Guard_BT" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_BT.uasset" SILENT=true
+[2019.11.16-14.40.23:793][428]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_BT103FD743401DD65F207F90972D5AADE9.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_BT.uasset'
+[2019.11.16-14.40.24:508][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.11.16-14.40.24:540][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.16-14.40.24:570][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.11.16-14.40.24:601][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.11.16-14.40.24:653][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.11.16-14.40.24:685][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.16-14.40.24:741][428]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/PerceptiveAI/Blueprints/AI/Guard_AIC.
+[2019.11.16-14.40.39:380][496]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PerceptiveAI/Blueprints/AI/Guard_Char.Guard_Char
+[2019.11.16-14.41.54:152][366]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.16-14.43.05:356][771]LogSlate: Window 'Guard_Char' being destroyed
+[2019.11.16-14.43.05:369][771]LogSlate: Window 'Guard_Char' being destroyed
+[2019.11.16-14.43.05:389][771]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-14.43.09:428][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-14.44.28:073][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.16-14.44.28:312][330]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PerceptiveAI/Blueprints/AI/Guard_AIC.Guard_AIC
+[2019.11.16-14.44.35:960][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.11.16-14.44.35:972][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Testbed" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/Maps/Testbed_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.16-14.44.36:450][794]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Testbed_Auto234A255B3479827D32E965E8F76DBAF2E.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/Maps/Testbed_Auto2.umap'
+[2019.11.16-14.44.36:458][794]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Testbed' took 0.533
+[2019.11.16-14.44.36:458][794]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.533
+[2019.11.16-14.44.36:460][794]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PerceptiveAI/Blueprints/AI/Guard_Char] ([1] browsable assets)...
+[2019.11.16-14.44.36:477][794]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PerceptiveAI/Blueprints/AI/Guard_Char.Guard_Char]
+[2019.11.16-14.44.36:477][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/PerceptiveAI/Blueprints/AI/Guard_Char]
+[2019.11.16-14.44.36:551][794]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_Char_Auto2E200F8064F1C851F0023E7A4718FC0AD.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Autosaves/Game/PerceptiveAI/Blueprints/AI/Guard_Char_Auto2.uasset'
+[2019.11.16-14.44.36:553][794]LogFileHelpers: Auto-saving content packages took 0.094
+[2019.11.16-14.46.08:205][921]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/PerceptiveAI/Blueprints/AI/AIHelper_API.
+[2019.11.16-14.46.10:645][ 68]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PerceptiveAI/Blueprints/AI/AIHelper_API.AIHelper_API
+[2019.11.16-14.46.42:441][830]LogSlate: Took 0.036033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.11.16-14.50.19:813][312]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.16-14.50.32:124][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PerceptiveAI/Blueprints/AI/Guard_AIC" FILE="C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_AIC.uasset" SILENT=true
+[2019.11.16-14.50.32:186][277]LogSavePackage: Moving 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Saved/Guard_AICF946968741C2262172D2E399168511BD.tmp' to 'C:/Users/jamie/Desktop/UE4/AI/PerceptiveAI/Content/PerceptiveAI/Blueprints/AI/Guard_AIC.uasset'
+[2019.11.16-14.50.33:081][333]BlueprintLog: New page: Compile Guard_AIC
+[2019.11.16-14.50.33:390][333]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2019.11.16-14.50.40:765][944]LogSlate: Window 'AIHelper_API' being destroyed
+[2019.11.16-14.50.40:779][944]LogSlate: Window 'AIHelper_API' being destroyed
+[2019.11.16-14.50.40:798][944]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-14.50.40:864][944]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-14.50.42:634][ 58]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PerceptiveAI/Blueprints/AI/Guard_Char.Guard_Char
+[2019.11.16-14.50.46:729][243]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.16-14.50.48:994][349]BlueprintLog: New page: Compile Guard_Char
+[2019.11.16-14.50.49:262][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2019.11.16-14.51.00:098][864]LogSlate: Window 'Guard_Char' being destroyed
+[2019.11.16-14.51.00:157][864]LogSlate: Window 'Guard_Char' being destroyed
+[2019.11.16-14.51.00:166][864]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.16-14.51.01:327][905]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PerceptiveAI/Blueprints/AI/Guard_Char.Guard_Char
+[2019.11.16-14.52.25:440][511]BlueprintLog: New page: Compile Guard_Char
+[2019.11.16-14.52.25:726][511]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.16-14.52.28:408][511]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.682 s
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: 
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp] [Line: 2346]
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: Graph GetTeamID already exists: EdGraph /Game/PerceptiveAI/Blueprints/AI/Guard_Char.Guard_Char:GetTeamID
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: Stack: 
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ffef9faeea6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ffef9750cf4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ffef974be16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ffef974aa96 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ffef54282c4 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff0e951bfc UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff0e903977 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ffef97c5eb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff0e9fa781 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff0ea15d78 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff100d7fda UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff101ba262 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff1019ccf4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff102358b8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff102514b1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff10095231 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff1011b4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff101052e8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff100f9c91 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff1e5a4e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff1e5926df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff1e5a7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff1e58edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff535d63ed USER32.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff535d5de2 USER32.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff1e5a88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ff6e5d66980 UE4Editor.exe!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ff6e5d7a91c UE4Editor.exe!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ff6e5d7a9fa UE4Editor.exe!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ff6e5d8b92c UE4Editor.exe!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007ff6e5d8e60e UE4Editor.exe!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff529b7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: [Callstack] 0x00007fff538aced1 ntdll.dll!UnknownFunction []
+[2019.11.16-14.52.28:408][511]LogOutputDevice: Error: 
+[2019.11.16-14.52.28:418][511]LogStats:                SubmitErrorReport -  0.000 s
